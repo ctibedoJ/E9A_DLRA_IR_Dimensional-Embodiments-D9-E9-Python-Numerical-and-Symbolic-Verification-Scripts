@@ -1,0 +1,17 @@
+LIMITED EVALUATION & PATENT ACKNOWLEDGEMENT LICENSE
+1. LIMITED GRANT OF USE
+This software is provided solely for the purpose of verifying the mathematical results of the underlying framework. You are granted a personal, non-exclusive, non-transferable, and revocable license to run the source code for validation purposes only.
+2. PROHIBITED USES
+Any use beyond mathematical verification is strictly prohibited. For the avoidance of doubt, you shall NOT:
+Modify, adapt, or create derivative works of this source code.
+Incorporate any portion of this code or its mathematical formalism into any other software, hardware, or commercial product.
+Redistribute, sublicense, or publicly display this source code.
+Reverse engineer or decompile any portion of the logic for the purpose of circumventing the restrictions herein.
+3. AGGRESSIVE PATENT ASSERTION & ACKNOWLEDGEMENT
+By accessing or running this code, you explicitly acknowledge and agree to the following:
+Patent Pending Status: This source code and the mathematical formalisms it embodies are the foundation for a proprietary set of inventions detailed in a provisional patent application filed by Charles Tibedo and Cory Newton on February 20, 2026, titled "Discreet Lattice Resonance Architecture for Deterministic Holographic Signal Processing."
+Scope of Claims: You acknowledge that this patent covers applications including, but not limited to: Computing, Signal Processing, Materials Science, Quantum Computing, and Cryptography.
+Explicit Admission: You acknowledge that even though the exact claims of the pending patent may be non-public, the mathematical logic shared in this repository constitutes the proprietary foundation of those claims.
+No Derivative Filings: You explicitly agree NOT to file any patent applications, provisional or otherwise, that relate to or derive from the mathematical formalisms or architectures disclosed in this repository. Any such filing shall be deemed a material breach of this license and a willful misappropriation of intellectual property.
+4. LITIGATION & TERMINATION
+Any unauthorized use of this software or its underlying mathematical principles will be pursued as both a breach of contract and patent infringement. In the event of litigation, you agree to submit to the jurisdiction of the [Your State/Country] courts and acknowledge that the owner is entitled to seek injunctive relief and maximum statutory damages for willful infringement.
